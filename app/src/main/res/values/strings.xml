@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cody</string>
+    <string name="accessibility_description">Cody uses accessibility controls to perform voice commands such as Back, Home, taps and swipes.</string>
+</resources>
