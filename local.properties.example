@@ -1,0 +1,2 @@
+# Set sdk.dir to your Android SDK directory if your build environment does not set ANDROID_HOME.
+# sdk.dir=/path/to/android-sdk
