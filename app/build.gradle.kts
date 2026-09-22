@@ -13,6 +13,9 @@ android {
         targetSdk = 35
         versionCode = 1
         versionName = "0.1.0"
+   buildToolsVersion = "36.1.0"
+   ndkVersion = "29.0.14206865" 
+    
     }
 
     buildTypes {
